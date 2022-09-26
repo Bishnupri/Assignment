@@ -1,3 +1,4 @@
+//WAP to check leap-year
 public class leap{
 public static void main(String args[]) {
 int year =2016;
