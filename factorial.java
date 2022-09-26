@@ -1,3 +1,4 @@
+//WAP to find factorial of any number
 public class factorial {
 public static void main(String[] args)
 {
