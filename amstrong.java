@@ -1,3 +1,4 @@
+// WAP to check Armstrong Number
 import java.util.Scanner;
 
 public class amstrong {
