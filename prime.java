@@ -1,3 +1,4 @@
+//WAP to check a no is prime or not
 public class prime {
 public static void main(String args[]){
 int i,m=0,flag=0;      
