@@ -42,6 +42,24 @@ class PhysicsTeacher extends Teacher{
 		System.out.println("Teach Physics");
 	}
 }
+public class TeacherMain {
+	public static void main(String[] args) {
+		ItTeacher it = new ItTeacher(); 
+	    it.display();
+	    it.work();
+		MathTeacher mt =new MathTeacher();
+		mt.display();
+		mt.work();
+		MusicTeacher muc=new MusicTeacher();
+		muc.display();
+		muc.work();
+		PhysicsTeacher pt = new PhysicsTeacher();
+		pt.display();
+		pt.work();
+	}
+	
+}
+
 
 	
 	
